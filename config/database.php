@@ -8,7 +8,7 @@
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'door2dry');
 define('DB_USER', 'root');
-define('DB_PASS', 'admin');
+define('DB_PASS', '');
 define('DB_CHARSET', 'utf8mb4');
 
 // Database connection class
